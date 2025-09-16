@@ -1,0 +1,10 @@
+//
+//  Dev.Config.xcconfig
+//  MovieVault
+//
+//  Created by Mohammad Shariq on 10/09/25.
+
+
+
+
+TMDB_API_KEY = 0cf9517e74d671be39d40b6222e87b02
